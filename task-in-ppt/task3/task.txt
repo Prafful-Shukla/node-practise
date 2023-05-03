@@ -1,0 +1,9 @@
+Create  two files : stream.js and stream.txt .
+Suppose stream.txt is in server,i want to read stream.txt
+through stream.js file and further run the server 
+and show the content of stream.txt on the browser 
+through stream.js.
+
+Note: Use the concept of events.
+
+

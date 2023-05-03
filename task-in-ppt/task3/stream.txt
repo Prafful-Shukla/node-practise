@@ -1,0 +1,3 @@
+//this file is server
+//read this through stream.js file
+dawdawdawd

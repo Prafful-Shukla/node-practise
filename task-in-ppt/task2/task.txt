@@ -1,0 +1,6 @@
+Create a object .
+Convert it into JSON.
+Add this data to another file.
+Read the data from that file.
+Again Convert it back to JS Object.
+Show data on the console. 
